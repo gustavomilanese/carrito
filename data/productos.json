@@ -94,6 +94,14 @@
       "precio": 999.99,
       "imagen": "/assets/images/iphone12.png",
       "cantidad": 25
+    },
+    {
+      "id": 13,
+      "nombre": "MacBook Air 2",
+      "descripcion": "El MacBook Air con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina.",
+      "precio": 999.99,
+      "imagen": "/assets/images/macbookair.png",
+      "cantidad": 3
     }
 ]
 
