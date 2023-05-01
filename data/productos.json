@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "nombre": "iPhone 13 Pro",
+      "descripcion": "El nuevo iPhone 13 Pro con pantalla OLED de 6.1 pulgadas, chip A15 Bionic, cámara trasera triple de 12 MP y cámara frontal de 12 MP.",
+      "precio": 999.99,
+      "imagen": "/assets/images/iphone13pro.png",
+      "cantidad": 50
+    },
+    {
+      "id": 2,
+      "nombre": "MacBook Pro 14",
+      "descripcion": "El nuevo MacBook Pro de 14 pulgadas con chip M1 Pro, 16 GB de RAM, 512 GB de almacenamiento y pantalla Retina XDR.",
+      "precio": 1999.99,
+      "imagen": "/assets/images/macbook-pro.png",
+      "cantidad": 20
+    },
+    {
+      "id": 3,
+      "nombre": "iPad Air",
+      "descripcion": "El nuevo iPad Air con pantalla Liquid Retina de 10.9 pulgadas, chip A14 Bionic, cámara trasera de 12 MP y cámara frontal de 7 MP.",
+      "precio": 649.99,
+      "imagen": "/assets/images/ipad.png",
+      "cantidad": 30
+    },
+    {
+      "id": 4,
+      "nombre": "iMac 24",
+      "descripcion": "El nuevo iMac de 24 pulgadas con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina 4.5K.",
+      "precio": 1299.99,
+      "imagen": "/assets/images/imac24.png",
+      "cantidad": 15
+    },
+    {
+      "id": 5,
+      "nombre": "Apple Watch 7",
+      "descripcion": "El nuevo Apple Watch Series 7 con pantalla siempre activa, resistencia al agua, seguimiento de actividad, salud y sueño.",
+      "precio": 399.99,
+      "imagen": "/assets/images/smartwatch.png",
+      "cantidad": 40
+    },
+    {
+      "id": 6,
+      "nombre": "iPhone 12",
+      "descripcion": "El iPhone 12 con pantalla OLED de 5.4 pulgadas, chip A14 Bionic, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
+      "precio": 699.99,
+      "imagen": "/assets/images/iphone12.png",
+      "cantidad": 60
+    },
+    {
+      "id": 7,
+      "nombre": "MacBook Air",
+      "descripcion": "El MacBook Air con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina.",
+      "precio": 999.99,
+      "imagen": "/assets/images/macbookair.png",
+      "cantidad": 25
+    },
+    {
+      "id": 8,
+      "nombre": "iPad Pro",
+      "descripcion": "El iPad Pro con pantalla Liquid Retina XDR de 12.9 pulgadas, chip M1, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
+      "precio": 1099.99,
+      "imagen": "/assets/images/ipadpro.png",
+      "cantidad": 25
+    },
+    {
+      "id": 9,
+      "nombre": "iPhone 14 Pro",
+      "descripcion": "El iPad Pro con pantalla Liquid Retina XDR de 12.9 pulgadas, chip M1, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
+      "precio": 1099.99,
+      "imagen": "/assets/images/iphone12.png",
+      "cantidad": 25
+    },
+    {
+      "id": 10,
+      "nombre": "iPhone 14 Pro Max",
+      "descripcion": "El iPad Pro con pantalla Liquid Retina XDR de 12.9 pulgadas, chip M1, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
+      "precio": 1099.99,
+      "imagen": "/assets/images/iphone13pro.png",
+      "cantidad": 25
+    },
+    {
+      "id": 11,
+      "nombre": "MacBook Air",
+      "descripcion": "El MacBook Air con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina.",
+      "precio": 999.99,
+      "imagen": "/assets/images/macbookair.png",
+      "cantidad": 25
+    },
+    {
+      "id": 12,
+      "nombre": "MacBook Air",
+      "descripcion": "El MacBook Air con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina.",
+      "precio": 999.99,
+      "imagen": "/assets/images/iphone12.png",
+      "cantidad": 25
+    }
+]
+
+    
+
+    
