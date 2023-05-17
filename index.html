@@ -9,24 +9,28 @@
 </head>
 <body>
     <main>
-        <h1 class="titulo-principal">Catalogo de Producto</h1>
-        <div class="container">
-            <div id="carrito" class="cart">
-                <h2>Carrito de Compras</h2>
-                <div class="cart-items">
-                </div>
-                <div class="cart-total">
-                <h3>Total: $<span id="cart-total">0.00</span></h3>
-                <div>
-                    <button class="product-card__button">Comprar</button>
-                    <button class="product-card__button" id="vaciar-carrito">Vaciar carrito</button>
-                </div>
+        <div class="container-buscador">
+            <form id="search-form" action="">
+                <input type="text" name="search" placeholder="Buscar productos" class="cuadro-busqueda" id="search-input">
+                <button type="submit" class="btn-submit">Buscar</button>
+            </form>            
+        </div>
+        <div class="main">
+            <div id="products-container"></div>
+            <div class="sidebar">
+                <div id="carrito" class="cart">
+                    <h2>Carrito de Compras</h2>
+                    <div class="cart-items">
+                    </div>
+
+                    <div class="cart-total">
+                        <h3>Total: $<span id="cart-total">0.00</span></h3>
+                        <button class="product-card__button">Comprar</button>
+                        <button class="product-card__button" id="vaciar-carrito">Vaciar</button>
+                    </div>
                 </div>
             </div>
-        <div id="products-container"></div>
-        </div>
-        
-          
+        </div>    
     </main>
     <script src="/assets/js/script.js"></script>
 </body>

@@ -1,13 +1,48 @@
+.main {
+  width: 100%;
+  display: flex;
+  background-color: #f5f5f5;
+}
+
+/* buscador */
+.container-buscador{
+  display: block;
+  width: auto;
+  background-color: #f5f5f5;
+  border-color: #57a1fc;
+  position: relative;
+}
+
+.cuadro-busqueda{
+  width: 70%;
+  background-color: #f5f5f5;
+  position: fixed;
+  padding: 10px;
+  padding-right: 50px;
+  border-radius: 5px;
+  border-color: #57a1fc;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.btn-submit{
+  display: none;
+}
+
 .titulo-principal{
   font-size: 30px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #ffffff;
   margin-left: 25px;
-  padding-top: 40px;
+  padding-top: 10px;
   padding-bottom: 0px;
   text-align: left;
   color: #989898;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
+  /* float: top; */
+  position: fixed;
+  top: 1;
+  
 }
 
 #products-container {
@@ -20,7 +55,7 @@
   background-color: #f5f5f5;
   padding: 60px 80px;
   border-radius: 10px;
-  width: 80%;
+  width: 70%;
 }
 
 .carrito {
@@ -173,6 +208,15 @@
   margin-top: 10px;
 }
 
+/* estilos para el side bar  */
+.sidebar {
+  width: 20%;
+  float: right;
+  position: fixed;
+  top: 1;
+  right: 0;
+}
+
 /* Estilos para la tarjeta de producto */
 .product-card {
   background-color: #ffffff;
@@ -233,6 +277,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    min-width: 150px;
 }
 
 .product-card__button:hover {
@@ -254,10 +299,13 @@
   padding: 60px 80px;
   border-radius: 10px, 0px, 0px, 10px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 200px;
+
 }
 
 .cart h2 {
   margin: 0;
+  font-size: 20px;
 }
 
 .cart-items {
@@ -271,6 +319,7 @@
   margin-bottom: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid #ddd;
+  
 }
 
 .cart-item img {
@@ -291,12 +340,15 @@
   display: inline;
   align-items: center;
   justify-content: space-between;
-  margin-top: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   height: 60px;
+
 }
 
 .cart-total h3 {
   margin: 0;
+  margin-top: 20px;
 }
 
 .cart-total button {
@@ -312,4 +364,8 @@
 
 .cart-total button:hover {
   background-color: #002655;
+}
+
+.precio-carrito{
+  float:right;
 }

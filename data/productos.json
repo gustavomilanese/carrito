@@ -65,16 +65,16 @@
     },
     {
       "id": 9,
-      "nombre": "iPhone 14 Pro",
-      "descripcion": "El iPad Pro con pantalla Liquid Retina XDR de 12.9 pulgadas, chip M1, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
+      "nombre": "iPhone 12",
+      "descripcion": "El iphone 12 con pantalla Liquid Retina XDR de 12.9 pulgadas, chip M1, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
       "precio": 1099.99,
       "imagen": "/assets/images/iphone12.png",
       "cantidad": 25
     },
     {
       "id": 10,
-      "nombre": "iPhone 14 Pro Max",
-      "descripcion": "El iPad Pro con pantalla Liquid Retina XDR de 12.9 pulgadas, chip M1, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
+      "nombre": "iPhone 13 Pro Max",
+      "descripcion": "El iphone 13 con pantalla Liquid Retina XDR de 12.9 pulgadas, chip M1, cámara trasera dual de 12 MP y cámara frontal de 12 MP.",
       "precio": 1099.99,
       "imagen": "/assets/images/iphone13pro.png",
       "cantidad": 25
@@ -89,19 +89,11 @@
     },
     {
       "id": 12,
-      "nombre": "MacBook Air",
-      "descripcion": "El MacBook Air con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina.",
+      "nombre": "Iphone 12",
+      "descripcion": "El Iphone 12 con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina.",
       "precio": 999.99,
       "imagen": "/assets/images/iphone12.png",
       "cantidad": 25
-    },
-    {
-      "id": 13,
-      "nombre": "MacBook Air 2",
-      "descripcion": "El MacBook Air con chip M1, 8 GB de RAM, 256 GB de almacenamiento y pantalla Retina.",
-      "precio": 999.99,
-      "imagen": "/assets/images/macbookair.png",
-      "cantidad": 3
     }
 ]
 
